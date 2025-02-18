@@ -1,0 +1,272 @@
+[
+  {
+    "Id": 1,
+    "Held": "Wolverine",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Latveria",
+    "Datum": "2017-06-28",
+    "GlobalerEinfluss": 819.79
+  },
+  {
+    "Id": 2,
+    "Held": "Spider-Man",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Latveria",
+    "Datum": "2004-11-18",
+    "GlobalerEinfluss": 952.06
+  },
+  {
+    "Id": 3,
+    "Held": "Doctor Strange",
+    "Antagonist": "Doctor Doom",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Titan",
+    "Datum": "2006-09-23",
+    "GlobalerEinfluss": 529.09
+  },
+  {
+    "Id": 4,
+    "Held": "Black Widow",
+    "Antagonist": "Doctor Doom",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Savage Land",
+    "Datum": "2019-11-18",
+    "GlobalerEinfluss": 160.77
+  },
+  {
+    "Id": 5,
+    "Held": "Spider-Man",
+    "Antagonist": "Apocalypse",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "X-Mansion",
+    "Datum": "2021-11-13",
+    "GlobalerEinfluss": 567.54
+  },
+  {
+    "Id": 6,
+    "Held": "Wolverine",
+    "Antagonist": "Loki",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Multiverse",
+    "Datum": "2019-03-21",
+    "GlobalerEinfluss": 70.03
+  },
+  {
+    "Id": 7,
+    "Held": "Doctor Strange",
+    "Antagonist": "Green Goblin",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Latveria",
+    "Datum": "2001-03-07",
+    "GlobalerEinfluss": 896.7
+  },
+  {
+    "Id": 8,
+    "Held": "Captain America",
+    "Antagonist": "Magneto",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Savage Land",
+    "Datum": "2018-10-15",
+    "GlobalerEinfluss": 788.72
+  },
+  {
+    "Id": 9,
+    "Held": "Wolverine",
+    "Antagonist": "Ultron",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Sakaar",
+    "Datum": "2013-11-22",
+    "GlobalerEinfluss": 25.78
+  },
+  {
+    "Id": 10,
+    "Held": "Black Widow",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Team",
+    "Ort": "Asgard",
+    "Datum": "2013-01-24",
+    "GlobalerEinfluss": 505.54
+  },
+  {
+    "Id": 11,
+    "Held": "Black Widow",
+    "Antagonist": "Apocalypse",
+    "Konfrontationstyp": "Team",
+    "Ort": "Asgard",
+    "Datum": "2008-10-12",
+    "GlobalerEinfluss": 197.86
+  },
+  {
+    "Id": 12,
+    "Held": "Doctor Strange",
+    "Antagonist": "Loki",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "New York",
+    "Datum": "2006-01-07",
+    "GlobalerEinfluss": 133.59
+  },
+  {
+    "Id": 13,
+    "Held": "Doctor Strange",
+    "Antagonist": "Magneto",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Latveria",
+    "Datum": "2022-02-20",
+    "GlobalerEinfluss": 640.93
+  },
+  {
+    "Id": 14,
+    "Held": "Black Panther",
+    "Antagonist": "Magneto",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "New York",
+    "Datum": "2017-09-25",
+    "GlobalerEinfluss": 296.58
+  },
+  {
+    "Id": 15,
+    "Held": "Wolverine",
+    "Antagonist": "Red Skull",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "X-Mansion",
+    "Datum": "2023-09-21",
+    "GlobalerEinfluss": 57.31
+  },
+  {
+    "Id": 16,
+    "Held": "Black Panther",
+    "Antagonist": "Magneto",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Titan",
+    "Datum": "2004-02-18",
+    "GlobalerEinfluss": 493.07
+  },
+  {
+    "Id": 17,
+    "Held": "Deadpool",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Team",
+    "Ort": "Multiverse",
+    "Datum": "2020-01-13",
+    "GlobalerEinfluss": 504.88
+  },
+  {
+    "Id": 18,
+    "Held": "Black Widow",
+    "Antagonist": "Doctor Doom",
+    "Konfrontationstyp": "Team",
+    "Ort": "Latveria",
+    "Datum": "2006-02-25",
+    "GlobalerEinfluss": 698.19
+  },
+  {
+    "Id": 19,
+    "Held": "Deadpool",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Knowhere",
+    "Datum": "2017-04-30",
+    "GlobalerEinfluss": 172.78
+  },
+  {
+    "Id": 20,
+    "Held": "Black Widow",
+    "Antagonist": "Venom",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "Sakaar",
+    "Datum": "2012-03-13",
+    "GlobalerEinfluss": 713.35
+  },
+  {
+    "Id": 21,
+    "Held": "Hulk",
+    "Antagonist": "Green Goblin",
+    "Konfrontationstyp": "Team",
+    "Ort": "Titan",
+    "Datum": "2022-06-19",
+    "GlobalerEinfluss": 368.7
+  },
+  {
+    "Id": 22,
+    "Held": "Captain America",
+    "Antagonist": "Doctor Doom",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "X-Mansion",
+    "Datum": "2014-08-12",
+    "GlobalerEinfluss": 756.04
+  },
+  {
+    "Id": 23,
+    "Held": "Black Widow",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Titan",
+    "Datum": "2007-03-02",
+    "GlobalerEinfluss": 351.63
+  },
+  {
+    "Id": 24,
+    "Held": "Wolverine",
+    "Antagonist": "Thanos",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Asgard",
+    "Datum": "2000-02-17",
+    "GlobalerEinfluss": 310.84
+  },
+  {
+    "Id": 25,
+    "Held": "Thor",
+    "Antagonist": "Galactus",
+    "Konfrontationstyp": "Individuell",
+    "Ort": "Asgard",
+    "Datum": "2020-02-09",
+    "GlobalerEinfluss": 500
+  },
+  {
+    "Id": 26,
+    "Held": "Wolverine",
+    "Antagonist": "Magneto",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Asgard",
+    "Datum": "2005-10-27",
+    "GlobalerEinfluss": 796.16
+  },
+  {
+    "Id": 27,
+    "Held": "Captain America",
+    "Antagonist": "Loki",
+    "Konfrontationstyp": "Team",
+    "Ort": "X-Mansion",
+    "Datum": "2008-05-25",
+    "GlobalerEinfluss": 729.45
+  },
+  {
+    "Id": 28,
+    "Held": "Wolverine",
+    "Antagonist": "Apocalypse",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "X-Mansion",
+    "Datum": "2014-12-20",
+    "GlobalerEinfluss": 340.65
+  },
+  {
+    "Id": 29,
+    "Held": "Deadpool",
+    "Antagonist": "Loki",
+    "Konfrontationstyp": "Galaktisch",
+    "Ort": "Multiverse",
+    "Datum": "2003-07-06",
+    "GlobalerEinfluss": 924.02
+  },
+  {
+    "Id": 30,
+    "Held": "Deadpool",
+    "Antagonist": "Green Goblin",
+    "Konfrontationstyp": "Multiversal",
+    "Ort": "Wakanda",
+    "Datum": "2008-12-22",
+    "GlobalerEinfluss": 199.89
+  }
+]

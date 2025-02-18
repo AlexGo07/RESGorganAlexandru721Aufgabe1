@@ -52,7 +52,12 @@ public class Marvel{
 
      */
 
-
+    /**
+     * Diese filtriert durch alle Games undvergleicht mit eine kapazitat gegeben von Benutzer
+     * @param games
+     * @param kapazitat
+     * @return werden nur den namen der helden aufgezeigt
+     */
 
     public static void filterGame(List<Game> games, int kapazitat) {
         games.stream().filter(g -> g.GlobalerEinfluss >= kapazitat).map(g -> g.Held)
@@ -95,7 +100,7 @@ public class Marvel{
     }
 
     public static void main(String[] args) throws Exception {
-        String filePath = "marvel_konfrontationen.json"; // Schimbă în .tsv sau .xml dacă e cazul
+        String filePath = "src/marvel_konfrontationen.json"; // Schimbă în .tsv sau .xml dacă e cazul
         List<Game> Games;
         Scanner scanner = new Scanner(System.in);
         if (filePath.endsWith(".json")) Games = parseJson(filePath);
@@ -111,7 +116,7 @@ public class Marvel{
         System.out.println("\n:Galaktische anzeigen:");
         displayMunichGames(Games);
 
-        writeGameCounts("ergebnis.txt",Games);
+        writeGameCounts("bericht_konfrontationen.txt",Games);
     }
 }
 
