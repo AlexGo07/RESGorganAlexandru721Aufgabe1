@@ -53,6 +53,7 @@ public class Marvel{
      */
 
 
+
     public static void filterGame(List<Game> games, int kapazitat) {
         games.stream().filter(g -> g.GlobalerEinfluss >= kapazitat).map(g -> g.Held)
                 .distinct().forEach(g -> System.out.println(g));
