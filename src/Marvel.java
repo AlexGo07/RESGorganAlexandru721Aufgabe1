@@ -63,7 +63,7 @@ public class Marvel{
 
     public static void displayMunichGames(List<Game> Games) {
         Games.stream()
-                .filter(e -> e.Ort.equals("Galaktisch"))
+                .filter(e -> e.Konfrontationstyp.equals("Galaktisch"))
                 .sorted(Comparator.comparing(g -> g.Datum))
                 .forEach(e -> System.out.println(e.Datum + ": " + e.Held + " vs " + e.Antagonist));
     }
@@ -107,7 +107,7 @@ public class Marvel{
         System.out.println("sub valoarea data " + kapazitat + ":");
         filterGame(Games,kapazitat);
 
-        System.out.println("\nEvenimentele casei Stark:");
+        System.out.println("\n:Galaktische anzeigen:");
         displayMunichGames(Games);
 
         writeGameCounts("ergebnis.txt",Games);
